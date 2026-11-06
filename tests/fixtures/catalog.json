@@ -1,0 +1,5 @@
+[
+  {"sku":"NOTE-16-512","name":"Ноутбук 15,6″ / 16 ГБ / 512 ГБ","category":"Ноутбуки","price_minor":4990000,"stock":24,"unit":"шт.","source":"demo-catalog-v1"},
+  {"sku":"DISPLAY-24-IPS","name":"Монитор 24″ IPS","category":"Мониторы","price_minor":1290000,"stock":36,"unit":"шт.","source":"demo-catalog-v1"},
+  {"sku":"INPUT-KIT","name":"Клавиатура + мышь","category":"Периферия","price_minor":249000,"stock":80,"unit":"шт.","source":"demo-catalog-v1"}
+]
